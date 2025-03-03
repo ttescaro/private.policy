@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-**Last Updated: [Date]**
+**Last Updated: 2025-03-03**
 
 **1. Introduction**  
 Welcome to Tescaro Software. Your privacy is important to us, and we are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website, software, and services.
@@ -42,8 +42,7 @@ We may update this policy from time to time. Any changes will be posted on this 
 
 **9. Contact Us**  
 If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** [Your Contact Email]  
-**Website:** [Your Website URL]  
+**Email:** tiago.tescaro@hotmail.com
 
 By using our services, you agree to this Privacy Policy.
 
